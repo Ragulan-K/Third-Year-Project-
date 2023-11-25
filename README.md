@@ -1,0 +1,1 @@
+Design and Development of smart Fish Box Cooler for Maintaining Fish Freshness during Transportation Design and develop a fish box cooler that meets the specific needs of fishermen and is durable, easy to transport, and can maintain the temperature of the catch
